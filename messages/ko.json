@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "이미지 플레이리스트",
+    "subtitle": "이미지를 넣으면 AI가 분위기에 맞는 플레이리스트를 만들어요"
+  },
+  "upload": {
+    "drag": "이미지를 여기에 올리거나 클릭하세요",
+    "orCamera": "또는 카메라로 촬영",
+    "analyzing": "이미지 분석 중…",
+    "generating": "플레이리스트 생성 중…"
+  },
+  "playlist": {
+    "title": "이 이미지에 어울리는 플레이리스트",
+    "play": "재생",
+    "shareAsImage": "이미지로 공유",
+    "save": "저장",
+    "saved": "저장됨"
+  },
+  "auth": {
+    "login": "Google로 로그인",
+    "logout": "로그아웃",
+    "loginToSave": "플레이리스트 저장하려면 로그인하세요"
+  },
+  "lang": {
+    "ko": "한국어",
+    "en": "English"
+  }
+}

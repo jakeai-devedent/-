@@ -1,0 +1,28 @@
+{
+  "app": {
+    "title": "Image Playlist",
+    "subtitle": "Upload an image and AI will create a playlist that matches the vibe"
+  },
+  "upload": {
+    "drag": "Drop an image here or click to upload",
+    "orCamera": "Or take a photo",
+    "analyzing": "Analyzing image…",
+    "generating": "Generating playlist…"
+  },
+  "playlist": {
+    "title": "Playlist for this image",
+    "play": "Play",
+    "shareAsImage": "Share as image",
+    "save": "Save",
+    "saved": "Saved"
+  },
+  "auth": {
+    "login": "Sign in with Google",
+    "logout": "Sign out",
+    "loginToSave": "Sign in to save playlists"
+  },
+  "lang": {
+    "ko": "한국어",
+    "en": "English"
+  }
+}
